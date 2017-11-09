@@ -16,6 +16,8 @@ namespace DataCliente
             MainPage = new DataCliente.MainPage();
         }
 
+        
+
         protected override void OnStart()
         {
             // Handle when your app starts
